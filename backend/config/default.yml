@@ -1,0 +1,6 @@
+jwt:
+  secret: 'ONR_2020'
+  expiry: 3600
+
+server:
+  port: 5000
